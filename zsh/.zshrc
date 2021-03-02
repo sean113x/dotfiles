@@ -27,7 +27,7 @@ prompt_context() {}
 #shortcuts
 alias vsc='code-insiders'
 alias ll='ls -al'
-alias ddd='cd dev'
+alias d='cd dev'
 alias c='clear'
 alias vi='nvim'
 clear
